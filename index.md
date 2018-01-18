@@ -1,6 +1,6 @@
 ## Innovate with Us!
 
-Brooklyn Law School’s Center for Urban Business Entrepreneurship (**CUBE**) is pleased to announce the Fifth Annual CUBE Innovators Competition.  Participants in the Innovators Competition will research, create, and pitch a venture that attempts to solve an important problem in legal practice, legal education or public policy.  The final judging will occur on **April 12, 2018**, in a pitch competition presented to the Brooklyn Law School community and the general public.  The Competition will be judged by notable legal, business and community leaders, including backers of CUBE, including:
+Brooklyn Law School’s Center for Urban Business Entrepreneurship ([**CUBE**](https://www.brooklaw.edu/intellectuallife/CUBE/about?)) is pleased to announce the Fifth Annual CUBE Innovators Competition.  Participants in the Innovators Competition will research, create, and pitch a venture that attempts to solve an important problem in legal practice, legal education or public policy.  The final judging will occur on **April 12, 2018**, in a pitch competition presented to the Brooklyn Law School community and the general public.  The Competition will be judged by notable legal, business and community leaders, including backers of CUBE, including:
 
 - Andrew Sturner ‘90, *Co-Founder and Chairman at Boatsetter*
 - Lori Anne Wardi ‘92 , *VP at NeuStar*
@@ -8,9 +8,9 @@ Brooklyn Law School’s Center for Urban Business Entrepreneurship (**CUBE**) is
 
 Winners of the Competition will receive prize money for the proposed ventures and will be supported by CUBE faculty and colleagues in implementing their projects.
 
-**[APPLY NOW](https://goo.gl/forms/zCOjoCcM2Rwu5Uu52)**
+Please read the following information carefully and direct any questions to [philip.weiss@brooklaw.edu](mailto:philip.weiss@brooklaw.edu).  The first deadline for the Competition is on January 26, 2018, when the proposal application is due. We look forward to your submissions!
 
-Please read the following information carefully and direct any questions to philip.weiss@brooklaw.edu.  The first deadline for the Competition is on January 26, 2018, when the proposal application is due. We look forward to your submissions!
+### [APPLY NOW](https://goo.gl/forms/zCOjoCcM2Rwu5Uu52)
 
 ## Judging Criteria & Submission Requirements
 
