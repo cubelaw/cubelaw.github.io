@@ -1,4 +1,4 @@
-
+## Innovate with Us!
 
 Brooklyn Law School’s Center for Urban Business Entrepreneurship (CUBE) is pleased to announce the Fifth Annual CUBE Innovators Competition.  Participants in the Innovators Competition will research, create, and pitch a venture that attempts to solve an important problem in legal practice, legal education or public policy.  The final judging will occur on April 12, 2018, in a pitch competition presented to the Brooklyn Law School community and the general public.  The Competition will be judged by notable legal, business and community leaders, including backers of CUBE, including:
 
@@ -7,6 +7,8 @@ Brooklyn Law School’s Center for Urban Business Entrepreneurship (CUBE) is ple
 - Robert J. Manne ‘77, CUBE’s Entrepreneur-in-Residence and Senior VP and GC at Ultimate Software
 
 Winners of the Competition will receive prize money for the proposed ventures and will be supported by CUBE faculty and colleagues in implementing their projects.
+
+**[APPLY NOW](https://goo.gl/forms/zCOjoCcM2Rwu5Uu52)**
 
 Please read the following information carefully and direct any questions to philip.weiss@brooklaw.edu.  The first deadline for the Competition is on January 26, 2018, when the proposal application is due. We look forward to your submissions!
 
@@ -35,10 +37,22 @@ All work must be original to the team submitting the proposal.  The CUBE Faculty
 ## Competition Schedule
 
 **January 26, 2018**: Applications Due
+
 **February 23, 2018**: First Draft of Written Proposal Due
+
 **March 9, 2018**: CUBE Faculty Warm-Up Pitches
+
 **March 30, 2018**: Final Proposals Due
+
 **April 12, 2018**: Pitch Competition Date
 
-## Press and Resources
-- 
+## Resources
+
+### Competition Links
+- [FileFix Winning Proposal 2017](filefix-proposal.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xEeKFqwGCSM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Press
+- [The Top 10 Legal Tech Stories of 2017](http://www.abajournal.com/news/article/the_top_10_legal_tech_stories_of_2017)
+- [Recap: Reboot Your Firm for 2018](https://abovethelaw.com/2018/01/recap-reboot-your-firm-for-2018/)
