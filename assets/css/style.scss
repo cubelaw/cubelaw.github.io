@@ -3,3 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.page-header {
+  background-color: #FE1F1C;
+  background-image: linear-gradient(180deg, #FE1F1C, #fff);
+}
+
+.project-name {
+  max-width: 600px;
+}
