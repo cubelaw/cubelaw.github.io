@@ -1,10 +1,10 @@
 ## Innovate with Us!
 
-Brooklyn Law School’s Center for Urban Business Entrepreneurship (CUBE) is pleased to announce the Fifth Annual CUBE Innovators Competition.  Participants in the Innovators Competition will research, create, and pitch a venture that attempts to solve an important problem in legal practice, legal education or public policy.  The final judging will occur on April 12, 2018, in a pitch competition presented to the Brooklyn Law School community and the general public.  The Competition will be judged by notable legal, business and community leaders, including backers of CUBE, including:
+Brooklyn Law School’s Center for Urban Business Entrepreneurship (**CUBE**) is pleased to announce the Fifth Annual CUBE Innovators Competition.  Participants in the Innovators Competition will research, create, and pitch a venture that attempts to solve an important problem in legal practice, legal education or public policy.  The final judging will occur on **April 12, 2018**, in a pitch competition presented to the Brooklyn Law School community and the general public.  The Competition will be judged by notable legal, business and community leaders, including backers of CUBE, including:
 
-- Andrew Sturner ‘90, Co-Founder and Chairman at Boatsetter
-- Lori Anne Wardi ‘92 , VP at NeuStar
-- Robert J. Manne ‘77, CUBE’s Entrepreneur-in-Residence and Senior VP and GC at Ultimate Software
+- Andrew Sturner ‘90, *Co-Founder and Chairman at Boatsetter*
+- Lori Anne Wardi ‘92 , *VP at NeuStar*
+- Robert J. Manne ‘77, *CUBE’s Entrepreneur-in-Residence and Senior VP and GC at Ultimate Software*
 
 Winners of the Competition will receive prize money for the proposed ventures and will be supported by CUBE faculty and colleagues in implementing their projects.
 
