@@ -36,7 +36,7 @@ All work must be original to the team submitting the proposal.  The CUBE Faculty
 
 ## Competition Schedule
 
-**January 26, 2018**: Applications Due
+**January 26, 2018**: [Applications Due](https://goo.gl/forms/zCOjoCcM2Rwu5Uu52)
 
 **February 23, 2018**: First Draft of Written Proposal Due
 
