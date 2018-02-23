@@ -40,7 +40,7 @@ All work must be original to the team submitting the proposal.  The CUBE Faculty
 
 **March 2, 2018**: First Draft of Written Proposal Due
 
-**March 9, 2018**: CUBE Faculty Warm-Up Pitches
+**March 15, 2018, 2PM**: CUBE Faculty Warm-Up Pitches
 
 **March 30, 2018**: Final Proposals Due
 
